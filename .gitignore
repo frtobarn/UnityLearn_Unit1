@@ -1,0 +1,8 @@
+.vscode/
+Assembly-CSharp.csproj
+Library/
+Logs/
+Packages/
+UnityLearn_Unit1.sln
+UserSettings/
+obj/
